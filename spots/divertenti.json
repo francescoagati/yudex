@@ -1,6 +1,6 @@
 {
-    "name": "spots",
-    "path": "spots",
+    "name": "Spots divertenti",
+    "path": "spots/divertenti",
     "targets": [
         {
             "category": "spots",
