@@ -1,6 +1,6 @@
 {
-    "name": "spot-tv divertenti",
-    "path": "spot-tv/divertenti",
+    "name": "spot divertenti",
+    "path": "spots/divertenti",
     "targets": [
         {
             "category": "spot-tv",
