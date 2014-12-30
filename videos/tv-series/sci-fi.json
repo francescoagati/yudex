@@ -6,13 +6,44 @@
             "category": "tv-series",
             "desc1": "Doctor Who",
             "source":"https://www.youtube.com/watch?v=75V4ClJZME4",
-            "tgt": "75V4ClJZME4"
+            "tgt": "doctor-who"
         },
         {
             "category": "tv-series",
             "desc1": "Star Trek - Original series",
             "source":"https://www.youtube.com/watch?v=zM3cPMINXho",
-            "tgt": "zM3cPMINXho"
-        }
+            "tgt": "star-trek"
+        },
+        {
+            "category": "tv-series",
+            "desc1": "Battlestar Galactica",
+            "source":"https://www.youtube.com/watch?v=XPBzHa2PcS8",
+            "tgt": "battlestar-galactica"
+        },
+        {
+            "category": "tv-series",
+            "desc1": "Babylon 5",
+            "source":"https://www.youtube.com/watch?v=l3C_tTlhgm8",
+            "tgt": "babylon-5"
+        },
+        {
+            "category": "tv-series",
+            "desc1": "Space: 1999",
+            "source":"https://www.youtube.com/watch?v=8WZW4groJro",
+            "tgt": "space-1999"
+        },       
+        {
+            "category": "tv-series",
+            "desc1": "UFO",
+            "source":"https://www.youtube.com/watch?v=US7IF31wDVM",
+            "tgt": "ufo"
+        },        
+        {
+            "category": "tv-series",
+            "desc1": "Buck Rogers",
+            "source":"https://www.youtube.com/watch?v=CO8kFHCXiEg",
+            "tgt": "buck-rogers"
+        }                
+        
     ]
 }
