@@ -2,13 +2,7 @@
     "name": "spot divertenti",
     "path": "spots/divertenti",
     "targets": [
-        {
 
-            "category": "spot-tv-2",
-            "desc1": "Volvo",
-            "source":"https://www.youtube.com/watch?v=M7FIvfx5J10",
-            "tgt": "M7FIvfx5J10"
-        },
 
         {
             "category": "spot-tv-2",
@@ -25,6 +19,16 @@
             "source":"https://www.youtube.com/watch?v=RBQ-IoHfimQ",
             "tgt": "RBQ-IoHfimQ"
         },
+
+
+        {
+
+            "category": "spot-tv-2",
+            "desc1": "Volvo",
+            "source":"https://www.youtube.com/watch?v=M7FIvfx5J10",
+            "tgt": "M7FIvfx5J10"
+        },
+
         {
 
             "category": "spot-tv-2",
