@@ -1,0 +1,18 @@
+{
+    "name": "Tv series SciFi",
+    "path": "videos/tv-series/sci-fi",
+    "targets": [
+        {
+            "category": "tv-series",
+            "desc1": "Doctor Who",
+            "source":"https://www.youtube.com/watch?v=75V4ClJZME4",
+            "tgt": "75V4ClJZME4"
+        },
+        {
+            "category": "tv-series",
+            "desc1": "Star Trek - Original series",
+            "source":"https://www.youtube.com/watch?v=zM3cPMINXho",
+            "tgt": "zM3cPMINXho"
+        }
+    ]
+}
