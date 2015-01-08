@@ -1,0 +1,8 @@
+{
+    "name": "Milano JS - Meetups",
+    "path": "talks/milano-js/meetups",
+    "category":"talks",
+    "targets": [
+        "http://www.eventbrite.it/e/biglietti-milano-js-15130688296?ref=ebtnebregn"
+    ]
+}
