@@ -1,6 +1,7 @@
 {
     "name": "Milano JS - Meetups",
     "path": "talks/milano-js/meetups",
+    "logo": "http://milanojs.com/assets/img/milanojs-logo.jpg",
     "category":"talks",
     "targets": [
         "http://lanyrd.com/2015/milanojs-8/sdhcqy"
