@@ -4,8 +4,6 @@
     "logo": "http://milanojs.com/assets/img/milanojs-logo.jpg",
     "category":"talks",
     "targets": [
-        "http://lanyrd.com/2014/milanojs-1/",                
-        "http://lanyrd.com/2014/milanojs-2/",        
         "http://lanyrd.com/2014/milanojs-3/",        
         "http://lanyrd.com/2014/milanojs-4/",       
         "http://lanyrd.com/2014/milanojs-5/",        
